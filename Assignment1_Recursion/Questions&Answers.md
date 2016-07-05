@@ -1,4 +1,4 @@
-# Exercise 1: Pascal¡¯s Triangle
+# Exercise 1: Pascal's Triangle
 The following pattern of numbers is called Pascal¡¯s triangle.
 ```
     1
