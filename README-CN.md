@@ -1,5 +1,5 @@
 # Scala-Coursera  
-:us: [README-EN](https://github.com/CtheSky/Scala-Coursera/blob/master/README.md)
+[README-EN](https://github.com/CtheSky/Scala-Coursera/blob/master/README.md)
 
 此项目是[Coursera-Scala课程](https://www.coursera.org/learn/progfun1)的作业答案集。  
 课程一共有5个实验作业，每个对应目录有一个可运行的demo和一个描述了问题和解答的 README 文件。 
